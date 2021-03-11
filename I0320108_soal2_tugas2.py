@@ -21,7 +21,7 @@ umur_bulan = ((tanggal_now - tanggal_lahir)/30) + (bulan_now - bulan_lahir) + ((
 umur_tahun = tahun_now - tahun_lahir
 
 # Menampilkan Biodata
-print("Biodata")
+print("Biodata Saya")
 print("Nama lengkap saya adalah ", nama_lengkap)
 print("Saya kerap disapa dengan nama ", nama)
 print("Saya lahir di ", tempat_lahir, umur_tahun, "tahun yang lalu, atau tepatnya ", int(umur_bulan), "bulan yang lalu")
