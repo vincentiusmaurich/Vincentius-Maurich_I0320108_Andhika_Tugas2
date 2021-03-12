@@ -10,7 +10,7 @@ r = float(input("Masukkan nilai jari-jari: "))
 luas_lingkaran = 3.14 * (r ** 2)
 
 #menghitung keliling lingkaran
-keliling_lingkaran = 2* 3.14 * r
+keliling_lingkaran = 2 * 3.14 * r
 
 #menampilkan hasil perhitungan kelayar
 print("luas lingkaran: ", luas_lingkaran)
