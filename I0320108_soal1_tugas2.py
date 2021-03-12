@@ -45,7 +45,7 @@ C = float(input("Masukkan suhu celcius: "))
 F = (C * (9/5)) + 32
 
 # Hasil Penghitungan
-print("Suhu dari", C, "celcius = ", F "fahrenheit")
+print("Suhu dari", C, "celcius = ", F, "fahrenheit")
 
 ### Informasi Program
 print("E. Menghitung Konversi Suhu Reamur ke Kelvin")
