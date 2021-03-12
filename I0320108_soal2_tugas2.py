@@ -2,16 +2,16 @@
 nama_lengkap = "Vincentius Maurich Kian Mulya"
 nama = "Maurich"
 tempat_lahir = "Surakarta"
-tanggal_lahir = "7"
-bulan_lahir = "5"
-tahun_lahir = "2002"
-tanggal_now = "12"
-bulan_now = "3"
-tahun_now = "2021"
-tinggi = "165"
-berat = "50"
-sepatu = "43"
-minus = "0.5"
+tanggal_lahir = 7
+bulan_lahir = 5
+tahun_lahir = 2002
+tanggal_now = 12
+bulan_now = 3
+tahun_now = 2021
+tinggi = 165
+berat = 50
+sepatu = 43
+minus = 0.5
 alamat = "Pengin, Cangkol, Mojolaban, Sukoharjo"
 
 # Menghitung Umur dalam Bulan
